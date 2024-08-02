@@ -3,6 +3,6 @@
     <notice>This is a repo manifest.xml templete.</notice>
     <remote name="apache" fetch="https://github.com"/>
     <default remote="apache" revision="master"/>
-    <project path="nuttx" name="apache/nuttx.git" remote="apache" sync-j="8" />
-    <project path="nuttx_tools" name="apache/nuttx-apps.git" remote="apache" sync-j="8" />
+    <project path="nuttx" name="apache/nuttx" remote="apache" sync-j="8" />
+    <project path="nuttx_tools" name="apache/nuttx-apps" remote="apache" sync-j="8" />
 </manifest>
