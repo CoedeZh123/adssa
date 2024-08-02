@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <manifest>
-    <notice This is a repo manifest repository test./>
+    <notice "This is a repo manifest repository test."/>
     <remote name="apache" fetch="https://github.com">
     <default remote="apache" revision="master"/>
     <project path="nuttx" name="apache/nuttx" sync-j="8" sync-s="true" />
