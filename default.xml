@@ -4,5 +4,5 @@
     <default remote="apache" revision="master"/>
     <project path="nuttx" name="apache/nuttx" sync-j="8" sync-s="true"/>
     <project path="nuttx_tools" name="apache/nuttx-apps"  sync-j="8" sync-s="true" />
-    <notice>"This is a repo tool  manifest.xml file test."<notice/>
+    <notice>"This is a repo tool  manifest.xml file test."</notice>
 </manifest>
