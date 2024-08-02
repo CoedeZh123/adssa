@@ -2,8 +2,7 @@
 <manifest>
     <remote name="apache" fetch="https://github.com">
     <default remote="apache" revision="master"/>
-    <project path="nuttx" name="apache/nuttx" sync-j="8" sync-s="true">
-	    <notice this is a repo manifest.xml file test./>
-    </project>
+    <project path="nuttx" name="apache/nuttx" sync-j="8" sync-s="true"/>
+	    <notice this is a repo manifest.xml file test.></notice>
     <project path="nuttx_tools" name="apache/nuttx-apps"  sync-j="8" sync-s="true" />
 </manifest>
