@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <manifest>
-    <remote name="apache" fetch="https://github.com">
+    <notice This is a repo manifest.xml templete./>
+    <remote name="apache" fetch="https://github.com"/>
     <default remote="apache" revision="master"/>
     <project path="nuttx" name="apache/nuttx" sync-j="8" sync-s="true"/>
     <project path="nuttx_tools" name="apache/nuttx-apps"  sync-j="8" sync-s="true" />
